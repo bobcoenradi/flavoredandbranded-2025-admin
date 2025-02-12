@@ -9,7 +9,7 @@ export default defineConfig({
   name: 'default',
   title: 'Flavored and Branded',
 
-  projectId: '2huhaa5v',
+  projectId: '7ms229eq',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool(), media()],
